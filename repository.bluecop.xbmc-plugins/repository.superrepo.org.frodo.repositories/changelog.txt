@@ -1,0 +1,2 @@
+[B]february 14th 2012[/B]
+0.2.0: Release of XRGv2
